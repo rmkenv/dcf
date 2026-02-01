@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Data Center Finder API V1.0",
+  "description": "A comprehensive tool for tracking and extracting emergency generator permits across all 50 states using Gemini API for document analysis and EPA ECHO integration.",
+  "requestFramePermissions": []
+}
